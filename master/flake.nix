@@ -9,7 +9,7 @@
   
   inputs.src-interfaced-master.flake = false;
   inputs.src-interfaced-master.owner = "andreaferretti";
-  inputs.src-interfaced-master.ref   = "refs/heads/master";
+  inputs.src-interfaced-master.ref   = "master";
   inputs.src-interfaced-master.repo  = "interfaced";
   inputs.src-interfaced-master.type  = "github";
   
