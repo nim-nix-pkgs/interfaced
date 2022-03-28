@@ -11,7 +11,6 @@
   inputs.src-interfaced-master.ref   = "refs/heads/master";
   inputs.src-interfaced-master.owner = "andreaferretti";
   inputs.src-interfaced-master.repo  = "interfaced";
-  inputs.src-interfaced-master.dir   = "";
   inputs.src-interfaced-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
